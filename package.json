@@ -1,0 +1,7 @@
+{
+  "name": "conscious-kain-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight Filipino food ordering browser demo",
+  "scripts": { "start": "node server.mjs", "check": "node --check app.js" }
+}
